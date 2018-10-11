@@ -17,4 +17,5 @@
 * [“蒸清新·浴室蒸汽保洁” 服务说明](201c-zheng-qing-65b0b7-yu-shi-zheng-qi-bao-ji-201d-fu-wu-shuo-ming.md)
 * [“蒸清新·浴室蒸汽保洁8小时” 服务说明](201c-zheng-qing-65b0b7-yu-shi-zheng-qi-bao-ji-8-xiao-shi-201d-fu-wu-shuo-ming.md)
 * [“蒸清新·电器蒸汽保洁” 服务说明](201c-zheng-qing-65b0b7-dian-qi-zheng-qi-bao-ji-201d-fu-wu-shuo-ming.md)
+* [“星级家”保洁包年服务说明](201c-xing-ji-jia-201d-bao-ji-bao-nian-fu-wu-shuo-ming.md)
 
