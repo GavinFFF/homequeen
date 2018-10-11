@@ -11,4 +11,5 @@
 * [“宅洁士”日式家具服务说明](201c-zhai-ji-shi-201d-ri-shi-jia-ju-fu-wu-shuo-ming.md)
 * [“居家经典”套餐服务说明](201c-ju-jia-jing-dian-201d-tao-can-fu-wu-shuo-ming.md)
 * [“超值保洁”套餐服务说明](201c-chao-zhi-bao-ji-201d-tao-can-fu-wu-shuo-ming.md)
+* [“厨房卫士”套餐服务说明](201c-chu-fang-wei-shi-201d-tao-can-fu-wu-shuo-ming.md)
 
