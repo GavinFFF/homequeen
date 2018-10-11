@@ -12,4 +12,6 @@
 * [“居家经典”套餐服务说明](201c-ju-jia-jing-dian-201d-tao-can-fu-wu-shuo-ming.md)
 * [“超值保洁”套餐服务说明](201c-chao-zhi-bao-ji-201d-tao-can-fu-wu-shuo-ming.md)
 * [“厨房卫士”套餐服务说明](201c-chu-fang-wei-shi-201d-tao-can-fu-wu-shuo-ming.md)
+* [“全面大扫除”套餐服务说明](201c-quan-mian-da-sao-chu-201d-tao-can-fu-wu-shuo-ming.md)
+*  “蒸清新·厨房蒸汽保洁” 服务说明
 
