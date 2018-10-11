@@ -9,4 +9,5 @@
 * [“极净亮”日式精细擦窗服务说明](201c-ji-jing-liang-201d-ri-shi-jing-xi-ca-chuang-fu-wu-shuo-ming.md)
 * [“养居宝”日式地面打蜡服务说明](201c-yang-ju-bao-201d-ri-shi-di-mian-da-la-fu-wu-shuo-ming.md)
 * [“宅洁士”日式家具服务说明](201c-zhai-ji-shi-201d-ri-shi-jia-ju-fu-wu-shuo-ming.md)
+* [“居家经典”套餐服务说明](201c-ju-jia-jing-dian-201d-tao-can-fu-wu-shuo-ming.md)
 
